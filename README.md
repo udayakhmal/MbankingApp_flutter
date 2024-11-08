@@ -4,7 +4,7 @@ Aplikasi Flutter yang modern dan elegan untuk mengelola keuangan, melakukan pemb
 
 ![MbangkingApp Photo](https://github.com/user-attachments/assets/be5e4f5e-eea2-4deb-a51b-33dab03166bf)
 
-![MbangkingApp Video](https://github.com/user-attachments/assets/171d9568-4977-4c27-aed4-4e3cd1ad6e82)
+[MbangkingApp Video](https://github.com/user-attachments/assets/171d9568-4977-4c27-aed4-4e3cd1ad6e82)
 
 ## Fitur
 

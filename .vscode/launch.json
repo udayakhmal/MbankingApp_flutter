@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "money_app",
+            "request": "launch",
+            "type": "dart",
+            "cwd": "money_app",
+            "program": "lib/core/config/main_app.dart"
+        },
+        {
+            "name": "money_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "cwd": "money_app",
+            "program": "lib/core/config/main_app.dart"
+        },
+        {
+            "name": "money_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "cwd": "money_app",
+            "program": "lib/core/config/main_app.dart"
+        }
+    ]
+}

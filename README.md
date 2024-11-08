@@ -2,6 +2,10 @@
 
 Aplikasi Flutter yang modern dan elegan untuk mengelola keuangan, melakukan pembayaran, dan memindai kode QR untuk transaksi finansial. Aplikasi ini memiliki beberapa layar untuk menampilkan saldo, aktivitas terbaru, kontak, pemindaian kode QR, dan pengiriman uang.
 
+![MbangkingApp Photo](https://github.com/user-attachments/assets/be5e4f5e-eea2-4deb-a51b-33dab03166bf)
+
+![MbangkingApp Video](https://github.com/user-attachments/assets/171d9568-4977-4c27-aed4-4e3cd1ad6e82)
+
 ## Fitur
 
 1. **Dashboard**:
